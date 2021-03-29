@@ -331,6 +331,11 @@ weight = 20
     parent = "overview/packages_&_platforms"
     weight = 60
 
+  [[menu.overview]]
+  title = "Style Guide"
+  identifier = "overview/style"
+  parent = "overview"
+  weight = 70
 ####
 # End Overview Menu
 ####
